@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<avatarEpisode1>
-    <transcript>
+<transcript>
+            <head>
+                <episode n="1">The Boy In The Iceberg</episode>
+                <book n="1">Water</book>
+                <source link="https://avatar.fandom.com/wiki/Transcript:The_Boy_in_the_Iceberg"/>
+            </head>
+        <charlist>
+            <!--needs filled across transcripts-->
+        </charlist>
+        <body>
         
-<scene><sd>Cut to a Fire Nation ship, where a boy in a Fire Nation military uniform stands on the deck, gazing at the light. His ponytail flutters in the wind.</sd>
-
-<speaker>Zuko</speaker>	Finally! <sd>[He turns around to face another person in uniform, who sits at a small table.]</sd> Uncle, do you realize what this means?!
-<speaker>Iroh</speaker>	<sd>[He is playing some sort of card game. He answers calmly while looking over the tile he's holding toward his nephew.]</sd> I won't get to finish my game?
-<speaker>Zuko</speaker>	<sd>[Turning around again to face the light.]</sd> It means my search is about to come to an end.
-<sd>Iroh sighs uninterestedly and places his tile on the table.</sd>
-<speaker>Zuko</speaker>	<sd>[Gestures at the light while facing his uncle again.]</sd> That light came from an incredibly powerful source! <sd>[The light dwindles and disappears.]</sd> It has to be him!
-<speaker>Iroh</speaker>	<sd>[With continuing disinterest and an air of skepticism.]</sd> Or it's just the celestial lights. We've been down this road before, Prince Zuko. <sd>[He looks at the tile in his hand, depicting the symbol of airbending.]</sd> I don't want you to get too excited over nothing. <sd>[He places it on a tile carrying the symbol of firebending and gestures toward the open place at the other side of the table while continuing in a relaxed voice.]</sd> Please, sit. Why don't you enjoy a cup of calming Jasmine tea?
-<speaker>Zuko</speaker>	<sd>[Furiously, still facing Iroh.]</sd> I don't need any calming tea! I need to capture the Avatar! Helmsman, head a course for the light!
-<sd>Zuko points in the direction of where the light once was. Iroh calmly continues with his game, placing another tile bearing the airbending symbol on the previous one. As he does, a gust of wind washes over him, shaking his tiles.</sd></scene>
-
-<scene><sd>The picture tilts up and fades away to reveal Zuko standing on the helm of his ship, staring into the distance. The young man is approached by his uncle.</sd>
-
-<speaker>Iroh</speaker>	I'm going to bed now. <sd>[Yawns and stretches.]</sd> Yep, a man needs his rest. <sd>[After a short pause, he abandons his try at a veiled suggestion and delivers his request more clearly, his tone tired.]</sd> Prince Zuko, you need some sleep. Even if you're right, and the Avatar is alive, you won't find him. Your father, grandfather and great-grandfather all tried and failed.
-<speaker>Zuko</speaker>	Because their honor didn't hinge on the Avatar's capture. Mine does. This coward's hundred years in hiding are over.
-<sd>The scene fades to Appa who is still swimming in the water. </sd></scene>
-
-<scene><sd>The scene shifts to Zuko's ship where Zuko is facing two soldiers dressed in the uniforms of a firebending Fire Nation soldier. Iroh is sitting on a small chair next to them.</sd>
-<speaker>Iroh</speaker>	<sd>[Sternly.]</sd> Again.
-<sd>Zuko opens the fight by spreading his arms in the direction of the two firebenders, showering them with flames. His adversaries block Zuko's attack with ease. Zuko shifts his weight to duck under a retaliation blast of the firebender to his left. The firebender to his right jumps forward to aim a blast at Zuko's feet. The prince propels himself out of the way. He twists around in mid-air and directs another fire blast with his hand to the firebender that retaliated first, and another with his foot to the firebender that aimed for his feet. Both soldiers jump out of the way of Zuko's flames. Zuko lands and stretches his fists out toward his adversaries, ready to face another attack.</sd>
-<speaker>Iroh</speaker>	<sd>[Sighs while he gets up.]</sd> No! <sd>[Zuko lowers his arms and looks at his uncle.]</sd> Power in firebending comes from the breath <sd>[Iroh moves his both hand up in front of him to emphasize the breathing motion.]</sd>, not the muscles. <sd>[He stretches his left arm out as if he was sending a fire blast.]</sd> The breath becomes energy in the body. The energy extends past your limbs and becomes: fire! <sd>[Iroh directs a fire blast at his nephew that evaporates just before it would scorch him.]</sd> Get it right this time.
-<speaker>Zuko</speaker>	<sd>[With suppressed anger, he walks toward his uncle and addresses him.]</sd> Enough! I've been drilling this sequence all day. Teach me the next set! I'm more than ready!
-<speaker>Iroh</speaker>	No, you are impatient. <sd>[He sits down again on his chair.]</sd> You have yet to master your basics. <sd>[He yells his order.]</sd> Drill it again!
-<sd>Zuko clenches his teeth in anger. He turns around and suddenly directs a power fire kick toward one of the soldiers. The firebender attempts to stop the fire blast, but he is unable to and is thrown on his back by its power.</sd>
-<speaker>Zuko</speaker>	<sd>[The suppressed anger is very apparent in his voice.]</sd> The sages tell us that the Avatar is the last airbender. <sd>[Close-up of Iroh, who does not look pleased with the attitude of his nephew.]</sd> He must be over a hundred years old by now. He's had a century to master the four elements! I'll need more than basic firebending to defeat him. <sd>[Starts to yell at his uncle.]</sd> You will teach me the advanced set!
-<speaker>Iroh</speaker>	<sd>[Concedes reluctantly. On a dire tone.]</sd> Very well, <sd>[His expression changes completely to one of delight as he picks something up from the ground.]</sd> but first, I must finish my roast duck. <sd>[He quickly munches down the roast duck, much to the dismay of Zuko.]</sd>
-<sd>The scene shifts back to the Southern Water Tribe, where it pans down to reveal Sokka pacing to and fro, his arms behind his back.</sd></scene>
-</transcript>
-</avatarEpisode1>
+<scene n="1"><sd>Cut to a Fire Nation ship, where a boy in a Fire Nation military uniform stands on the deck, gazing at the light. His ponytail flutters in the wind.</sd>
+    <speaker ref="Zuko">Zuko</speaker>	Finally! <sd>[He turns around to face another person in uniform, who sits at a small table.]</sd> <char ref="Iroh">Uncle</char>, do you realize what this means?!
+    <speaker ref="Iroh">Iroh</speaker>	<sd>[He is playing some sort of card game. He answers calmly while looking over the tile he's holding toward his nephew.]</sd> I won't get to finish my game?
+    <speaker ref="Zuko">Zuko</speaker>	<sd>[Turning around again to face the light.]</sd> It means my search is about to come to an end.
+    <sd>Iroh sighs uninterestedly and places his tile on the table.</sd>
+    <speaker ref="Zuko">Zuko</speaker>	<sd>[Gestures at the light while facing his uncle again.]</sd> That light came from an incredibly powerful source! <sd>[The light dwindles and disappears.]</sd> It has to be him!
+    <speaker ref="Iroh">Iroh</speaker>	<sd>[With continuing disinterest and an air of skepticism.]</sd> Or it's just the celestial lights. We've been down this road before, <char ref="Zuko">Prince Zuko</char>. <sd>[He looks at the tile in his hand, depicting the symbol of airbending.]</sd> I don't want you to get too excited over nothing. <sd>[He places it on a tile carrying the symbol of firebending and gestures toward the open place at the other side of the table while continuing in a relaxed voice.]</sd> Please, sit. Why don't you enjoy a cup of calming Jasmine tea?
+    <speaker ref="Zuko" >Zuko</speaker>	<sd>[Furiously, still facing Iroh.]</sd> I don't need any calming tea! I need to capture the <char ref="Aang">Avatar</char>! Helmsman, head a course for the light!
+    <sd>Zuko points in the direction of where the light once was. Iroh calmly continues with his game, placing another tile bearing the airbending symbol on the previous one. As he does, a gust of wind washes over him, shaking his tiles.</sd></scene>
+<!--speech tags need added across transcripts-->
+        </body>
+    </transcript>
