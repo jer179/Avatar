@@ -20,7 +20,7 @@
         <html>
             <head>
                 <title>Avatar: The Last Airbender Book 1</title>
-                <link rel="stylesheet" type="text/css" href="../Avatar/Avatar_CSS_7.css"/>
+                <link rel="stylesheet" type="text/css" href="../Avatar/css/Avatar_CSS_7.css"/>
             </head>
             <body>
                 <main>
