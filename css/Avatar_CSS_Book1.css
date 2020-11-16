@@ -1,0 +1,38 @@
+body {
+  background-color: #5F9EA0;
+  
+}
+h1 {
+  color: #FFF8DC;
+  text-align: center;
+  font-size: 18px;
+  font-family: Georgia;
+  
+}
+h2{
+    color:#FFF8DC;
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia;
+    border-bottom-style: solid;
+    border-width: 2px;
+}
+
+p {
+  color: black;
+  text-align: left;
+  font-size: 14px;
+  font-family: veranda;
+}
+p2{
+    font-style: italic;
+}
+span.Zuko{
+    color: #cc0000;
+    font-weight: bold;
+    
+}
+
+span.Other{
+    font-style: italic;
+}
