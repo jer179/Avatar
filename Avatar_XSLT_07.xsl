@@ -24,7 +24,9 @@
             </head>
             <body>
                 <main>
-                    <xsl:apply-templates select="$avatarColl//transcript"/>
+                    <xsl:apply-templates select="$avatarColl//transcript">
+                        <xsl:sort select="descendant::episode/@n" data-type="number"/>
+                    </xsl:apply-templates>
                 </main>
             </body>
         </html>
