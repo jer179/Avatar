@@ -14,3 +14,9 @@ p {
   text-align: center;
   font-family: veranda;
 }
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+}
