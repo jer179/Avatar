@@ -53,12 +53,12 @@
         </p>       
     </xsl:template>
  
-    <!-- h3 = scene directions (italics) -->
+    <!-- b = scene directions (italics) -->
     <xsl:template match="sd">
-        <h3><i>
+        <b><i>
             <xsl:apply-templates/>
         </i>
-        </h3>       
+        </b>       
     </xsl:template>
     
 
