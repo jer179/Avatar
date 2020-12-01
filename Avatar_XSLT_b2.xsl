@@ -13,13 +13,13 @@
         omit-xml-declaration="yes"/>
     
     <!-- collection creation -->
-    <xsl:variable name="avatarColl" select="collection('xml/book1/?select=*.xml')"/>
+    <xsl:variable name="avatarColl" select="collection('xml/book2/?select=*.xml')"/>
 
     <!-- structure -->
     <xsl:template match="/">
         <html>
             <head>
-                <title>Avatar: The Last Airbender Book 1</title>
+                <title>Avatar: The Last Airbender Book 2</title>
                 <link rel="stylesheet" type="text/css" href="../Avatar/css/Avatar_CSS_7.css"/>
             </head>
             <body>
@@ -34,7 +34,7 @@
     
     <!-- h1 = episode title -->
     <xsl:template match="episode">
-        <h1>
+        <h1 id="b#e#">
             <xsl:apply-templates/>
         </h1>       
     </xsl:template>
