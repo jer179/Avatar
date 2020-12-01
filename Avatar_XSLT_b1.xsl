@@ -61,6 +61,13 @@
         </b>       
     </xsl:template>
     
+    <!-- format speeches to look more like a script -->
+    <xsl:template match="sp">
+        <p>
+            <xsl:apply-templates/>
+        </p>      
+    </xsl:template>
+    
 
     <!-- span.Zuko for Zuko and span.Other for all other characters -->
     <xsl:template match="speaker[@ref='Zuko']">
