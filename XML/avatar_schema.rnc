@@ -1,9 +1,23 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
-start = avatarEpisode
-avatarEpisode = element avatarEpisode {n, transcript*}
-transcript = element transcript {scene*}
-scene = element scene {n, sd*, speaker*}
+start = atla
+atla = element atla {transcript*}
+transcript = element transcript {head*,charlist*, body*}
+head = element head {episode*, book*, source*}
+episode = element episode {n, text}
+book = element book {n, text}
+source = element source {link}
+link = attribute link {xsd:anyURI}
+charlist = element charlist {charList*}
+charList = element charList {type*, id*, text}
+type = attribute type {text}
+id = attribute id {text}
+body= element body {scene*}
+scene = element scene {n, char*, sp*, speaker*, sd*}
 n = attribute n {xsd:integer}
-sd = element sd {text}
-speaker = element speaker {text}
+char = element char {ref*, text}
+sp = element sp {mixed{speaker*, sd*, char*, text}}
+speaker = element speaker {ref*, text}
+sd = element sd {char*, text}
+ref = attribute ref {text}
+

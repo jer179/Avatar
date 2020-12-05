@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../XSLT/Avatar_CSS_7.css"?>
 <?xml-stylesheet type="text/xsl" href="../XSLT/Avatar_XSLT_07.xsl"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <atla>
     <transcript>
             <head>

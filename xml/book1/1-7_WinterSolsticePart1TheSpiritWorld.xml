@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <atla>
     <transcript>
             <head>
