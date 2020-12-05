@@ -35,6 +35,7 @@ The CSS is where this project shines. It is not exceptionally elaborate, but it 
 One small issue that remains is that a few of the images in the Book 3 timeline are distorted. This problem was fixed for the other timelines but not here.
 # GitHub 
 :octoat:
+
 The GitHub repo is fairly neat. It might have been neater had specific folders been made for html and XSLT, but there are not so many unfoldered files that it is hard to find one's way around. In other words, it is neat enough.
 # “UX”: User Experience and Site Interface
 The site interface is very clean and un-fussy. One minor drawback is that the summaries in the timelines are sometimes too short to communicate much to the user, such as "We learn more of Zuko's past and see more of his values and motivations." The summaries in the Book 3 timeline are fuller and easier to follow for someone not familiar with the series. Of course, most visitors to the site will probably be fans of the series already, which is why this remains a minor issue; still, in a series with 61 total episodes, remembering episodes in detail may be a bit much to expect.
