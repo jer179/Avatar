@@ -33,8 +33,7 @@ The XSLT was relatively straightforward but perfectly effective. It was used to 
 The CSS is where this project shines. It is not exceptionally elaborate, but it is cleverly done. The use of CSS to construct the timelines, rather than SVG, is an elegant solution, and one that I would recommend for future projects, especially for timelies that do not need to be proportional to the actual passage of time. (That is, it works fine for a TV series where events just happen in order and time is not measured as such, but would not be as good for a historical project in which events are separated by different spans of time, and those differences would matter.) The choice of colors to match the color scheme of each "Book" (season of the show) was a great idea on several levels. First, it provides some visual variety. Second, it helps the user to see instantly which season s/he is in. Third, insofar as it corresponds to the different elements that are significant to the different seasons, it puts the viewer in mind of that context without having to say a word.
 
 One small issue that remains is that a few of the images in the Book 3 timeline are distorted. This problem was fixed for the other timelines but not here.
-# GitHub 
-:octoat:
+# GitHub :octocat:
 
 The GitHub repo is fairly neat. It might have been neater had specific folders been made for html and XSLT, but there are not so many unfoldered files that it is hard to find one's way around. In other words, it is neat enough.
 # “UX”: User Experience and Site Interface
