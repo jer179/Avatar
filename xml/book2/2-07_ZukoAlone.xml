@@ -11,8 +11,7 @@
         
         <charlist>
             <charList type="recurring" id="Zuko">Zuko</charList>
-            <charList type="recurring" id="Y. Zuko">Young Zuko</charList>
-            <charList type="recurring" id="Y. Azula">Young Azula</charList>
+            <charList type="recurring" id="Azula">Azula</charList>
             <charList type="recurring" id="Ursa">Ursa</charList>
             <charList type="recurring" id="Ozai">Dad</charList>
             <charList type="recurring" id="Azulan">Grandpa</charList>
@@ -45,8 +44,8 @@ With the last of his cronies gone, Gow steps up to the plate to fight Zuko, dual
 <sd>Gow earthbends again, but with increasingly larger rocks each time. He shoots four rocks at Zuko, who manages to destroy each, one by one. It continues this way, Gow no longer giving little recovery breaks to Zuko. Both are fighting at full force, although Zuko is so busy being defensive of the large flying rocks that he cannot become offensive to Gow. However, finally Gow creates a rockalanche and directs it at Zuko. The crowd gasps collectively. Zuko is sent flying and lands straight on his back, and has a sudden flashback.
 In the flashback, Zuko is sleeping in his room at night when a hand gently touches his shoulder. He awakens drowsily to see his mother dressed in a cloak.</sd>
 
-<sp><speaker ref="Y. Zuko">Young Zuko</speaker>	... <char ref="Ursa">Mom</char>?</sp>
-<sp><speaker ref="Ursa">Ursa</speaker>	<char ref="Y. Zuko">Zuko</char>, please, my love, listen to me. Everything I've done, I've done to protect you.</sp>
+<sp><speaker ref="Zuko">Zuko</speaker>	... <char ref="Ursa">Mom</char>?</sp>
+<sp><speaker ref="Ursa">Ursa</speaker>	<char ref="Zuko">Zuko</char>, please, my love, listen to me. Everything I've done, I've done to protect you.</sp>
 <sd>She pulls the barely conscious Zuko into a hug.</sd>
 <sp><speaker ref="Ursa">Ursa</speaker>	Remember this, Zuko. No matter how things may seem to change, never forget who you are.</sp>
 <sd>She turns away from him with a sad smile, pulls her hood up and disappears down the dark hallway; it is the flashback Zuko had at the very beginning of the episode.
@@ -63,14 +62,14 @@ The flashback ends as suddenly as it begin, and we cut back to Zuko in the Earth
 <sp><speaker ref="Lee">Lee</speaker>	No! I hate you!</sp></scene>
             
             <scene n="2">
-<sp><speaker ref="Y. Zuko">Young Zuko</speaker>	<char ref="Ursa">Mom</char>? <sd>[Zuko leaps out of bed and runs out of his room down the hallway.]</sd> <char ref="Ursa">Mom</char>? <char ref="Ursa">Mom</char>!</sp>
+<sp><speaker ref="Zuko">Zuko</speaker>	<char ref="Ursa">Mom</char>? <sd>[Zuko leaps out of bed and runs out of his room down the hallway.]</sd> <char ref="Ursa">Mom</char>? <char ref="Ursa">Mom</char>!</sp>
 <sd>Zuko enters a pillared room, where Azula is admiring Zuko's dagger from behind a pillar. She re-sheathes it and steps out to face Zuko.</sd>
-<sp><speaker ref="Y. Zuko">Young Zuko</speaker>	Where's <char ref="Ursa">Mom</char>?</sp>
-<sp><speaker ref="Y. Azula">Young Azula</speaker>	No one knows. Oh, and last night, <char ref="Azulan">Grandpa</char> passed away.</sp>
-<sp><speaker ref="Y. Zuko">Young Zuko</speaker>	Not funny, <char ref="Y. Azula">Azula</char>! You're sick. And I want my knife back, now. <sd>[Zuko tries to grab it, but misses as Azula quickly moves out of the way, and loudly grunts.]</sd></sp>
-<sp><speaker ref="Y. Azula">Young Azula</speaker>	<sd>[Tauntingly.]</sd> Who's going to make me? <char ref="Ursa">Mom</char>?</sp>
+<sp><speaker ref="Zuko">Zuko</speaker>	Where's <char ref="Ursa">Mom</char>?</sp>
+<sp><speaker ref="Azula">Azula</speaker>	No one knows. Oh, and last night, <char ref="Azulan">Grandpa</char> passed away.</sp>
+<sp><speaker ref="Zuko">Zuko</speaker>	Not funny, <char ref="Azula">Azula</char>! You're sick. And I want my knife back, now. <sd>[Zuko tries to grab it, but misses as Azula quickly moves out of the way, and loudly grunts.]</sd></sp>
+<sp><speaker ref="Azula">Azula</speaker>	<sd>[Tauntingly.]</sd> Who's going to make me? <char ref="Ursa">Mom</char>?</sp>
 <sd>Zuko dashes forward and grabs his knife from Azula, who was dangling in a tantalizing manner. He runs away to keep looking. Zuko reaches the garden where his father is standing still, staring into a pond.</sd>
-<sp><speaker ref="Y. Zuko">Young Zuko</speaker>	Where is she?</sp>
+<sp><speaker ref="Zuko">Zuko</speaker>	Where is she?</sp>
 <sd>Ozai does not acknowledge that he has heard Zuko. Zuko bows his head.</sd></scene>
         </body>
     </transcript>
