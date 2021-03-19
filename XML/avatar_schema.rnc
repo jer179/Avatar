@@ -13,11 +13,11 @@ charList = element charList {type*, id*, text}
 type = attribute type {text}
 id = attribute id {text}
 body= element body {scene*}
-scene = element scene {n, char*, sp*, speaker*, sd*}
+scene = element scene {n, mixed{char | sp | speaker | sd}*}
 n = attribute n {xsd:integer}
 char = element char {ref*, text}
-sp = element sp {mixed{speaker*, sd*, char*, text}}
+sp = element sp {mixed{speaker | sd | char}*}
 speaker = element speaker {ref*, text}
-sd = element sd {char*, text}
+sd = element sd {text+ | char?}
 ref = attribute ref {text}
 
