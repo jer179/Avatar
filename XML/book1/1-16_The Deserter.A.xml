@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../XSLT/Avatar_CSS_7.css"?>
+<?xml-stylesheet type="text/xsl" href="../XSLT/Avatar_XSLT_07.xsl"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<atla>
+    <transcript>
+        <head>
+            <episode n="16">The Deserter</episode>
+            <book n="1">Water</book>
+            <source link="https://avatar.fandom.com/wiki/The_Deserter"/>
+        </head>
+        <charlist>
+            <charList type="recurring" id="Sokka">Sokka</charList>
+            <charList type="recurring" id="Aang">Aang</charList>
+            <charList type="recurring" id="Katara">Katara</charList>
+            <charList type="recurring" id="JeongJeong">Jeong Jeong</charList>
+            <charList type="recurring" id="TribalMan">Tribal man</charList>
+        </charlist>
+        <body>
+            <scene n="1">
+                <sd>Jeong Jeong grabs a falling leaf and burns the center.</sd>
+                <sp><spkr ref="Jeong Jeong">Jeong Jeong</spkr>Concentrate on the fire. I want you to
+                    keep the flame from reaching the edges of the leaf for as long as you can.</sp>
+                <sp><spkr ref="Tribal man">Tribal man</spkr>Master! There is trouble.</sp>
+                <sp><spkr ref="Aang">Aang</spkr>What's going on?</sp>
+                <sp><spkr ref="Jeong Jeong">Jeong Jeong</spkr>Concentrate on your leaf!</sp>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Annoyed.</sd> This is the worst firebending
+                    instruction ever! All he does is leave me for hours to concentrate or
+                    breathe!</sp>
+                <sp><spkr ref="Katara">Katara</spkr>I'm sure there's a good reason.</sp>
+                <sp><spkr ref="Aang">Aang</spkr>But I'm ready to do so much more.</sp>
+                <sd>Aang remembers to concentrate on his leaf and gets into a stance and breaths.
+                    Moments later, the leaf burns up creating a small flame.</sd>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Excited.</sd> I did it! I made fire!</sp>
+                <sp><spkr ref="Katara">Katara</spkr>Aang, that's great, but you should take it
+                    slow.</sp>
+                <sd>Aang starts playing with it by tossing it back and forth from in front to behind
+                    himself. He makes a blast go in the opposite direction.</sd>
+                <sp><spkr ref="Aang">Aang</spkr>Now that's some firebending!</sp>
+                <sp><spkr ref="Katara">Katara</spkr>Aang, you'll hurt yourself!</sp>
+                <sp><spkr ref="Aang">Aang</spkr>I wonder how that juggler did it.</sp>
+                <sd>Aang tosses it into the air and spreads his arms out. For a second, he has a
+                    smile on his face, but it vanishes as he accidentally burns Katara's hands.
+                    Katara shrieks in pain.</sd>
+                <sp><spkr ref="Aang">Aang</spkr>Katara! I'm so sorry!</sp>
+                <sd>Sokka comes running to Katara's side.</sd>
+                <sp><spkr ref="Sokka">Sokka</spkr><sd>Concerned.</sd> Katara, what's wrong?
+                        <sd>Angrily.</sd> What did you do?!</sp>
+                <sp><spkr ref="Aang">Aang</spkr>It was an accident! I was, uh... Katara, I'm
+                    so--</sp>
+                <sd>Sokka tackles Aang.</sd>
+                <sp><spkr ref="Sokka">Sokka</spkr>I told you we shouldn't mess around with this!
+                    Look what you did! You burned my sister! <sd>Katara runs away.</sd> You burned
+                    my sister! <sd>As Jeong Jeong walks in.</sd> This is all your fault!</sp>
+                <sp><spkr ref="Jeong Jeong">Jeong Jeong</spkr>I know! Now pack your things. You must
+                    leave immediately.</sp>
+                <sd>Katara runs off.</sd>
+                <sp><spkr ref="Aang">Aang</spkr>I'm sorry, I didn't ... <sd>Sokka runs off.</sd> I'm
+                    sorry! <sd>Jeong Jeong looks at Aang, displeased.</sd></sp>
+            </scene>
+        </body>
+    </transcript>
+</atla>
