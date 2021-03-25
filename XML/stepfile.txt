@@ -15,7 +15,7 @@ Replace: \n\n
 3. Wrap speakers and speeches
 Find: (^\w.+?)\t(.+?)(\n\n)
 Replace: <sp><spkr ref="\1">\1</spkr>\2</sp>\3
-**Note that you'll have to go back through the ref attributes to check if any of the names have a white space in them. You'll want to change the attribute value either by smushing the names together, or including an underscore. Talk with eachother about how you'd want to go about this. 
+**Note that you'll have to go back through the ref attributes to check if any of the names have a white space in them. You'll want to change the attribute value either by smushing the names together, or including an underscore. Talk with eachother about how you'd want to go about this. Mike - I did underscores
 
 4. Wrap stage directions WITHIN speeches:
 Find: \[(.+?)\]
