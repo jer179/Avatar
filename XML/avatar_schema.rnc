@@ -16,8 +16,9 @@ body= element body {scene*}
 scene = element scene {n, mixed{char | sp | speaker | sd}*}
 n = attribute n {xsd:integer}
 char = element char {ref*, text}
-sp = element sp {mixed{speaker | sd | char}*}
+sp = element sp {mixed{speaker | sd | char | spkr}*}
 speaker = element speaker {ref*, text}
+spkr = element spkr {ref*, text}
 sd = element sd {text+ | char?}
 ref = attribute ref {text}
 

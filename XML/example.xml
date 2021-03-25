@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<atla>
+    <transcript>
+        <head>
+            <episode n="01">The Avatar State</episode>
+            <book n="2">Earth</book>
+            <source link="https://avatar.fandom.com/wiki/Transcript:The_Avatar_State"/>
+        </head>
+        
+            <charlist>
+                <charList type="recurring" id="Aang">Aang</charList>
+            </charlist>
+            <body>
+                <scene n="1">
+
+                </scene>
+            </body>
+        </transcript>
+</atla>
