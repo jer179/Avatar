@@ -11,6 +11,9 @@
         
             <charlist>
                 <charList type="recurring" id="Aang">Aang</charList>
+                <charList type="recurring" id="Toph">Toph</charList>
+                <charList type="recurring" id="Sokka">Sokka</charList>
+                <charList type="recurring" id="Katara">Katara</charList>
             </charlist>
             <body>
                 <scene n="1">
