@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+In Book One: Water, the character Aang speaks 23 times. 
+In Book One: Water, the character Gyatso speaks 23 times. 
+In Book One: Water, the character Tashi speaks 23 times. 
+In Book One: Water, the character Pasang speaks 23 times. 
+In Book One: Water, the character Katara speaks 23 times. 
+In Book One: Water, the character Zhao speaks 23 times. 
+In Book One: Water, the character Jeong Jeong speaks 23 times. 
+In Book One: Water, the character Tribal man speaks 23 times. 
+In Book One: Water, the character Sokka speaks 23 times. 
+In Book One: Water, the character Zuko speaks 23 times. 
+In Book One: Water, the character Roku speaks 23 times.
