@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+In the show, Avatar, the character Aang speaks 7 times. 
+In the show, Avatar, the character Katara speaks 2 times. 
+In the show, Avatar, the character Roku speaks 2 times. 
+In the show, Avatar, the character Toph speaks 2 times.
