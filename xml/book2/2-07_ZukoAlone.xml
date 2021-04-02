@@ -4,7 +4,7 @@
 <atla>
     <transcript>
         <head>
-            <episode n="07">Zuko Alone</episode>
+            <episode n="7">Zuko Alone</episode>
             <book n="2">Earth</book>
             <source link="https://avatar.fandom.com/wiki/Transcript:Zuko_Alone"/>
         </head>
@@ -18,8 +18,8 @@
             <charList type="nonrecurring" id="Lee">Lee</charList>
             <charList type="nonrecurring" id="Sela">Sela</charList>
             <charList type="nonrecurring" id="Gow">Gow</charList>
-            <charList type="nonrecurring" id="OM">Old man</charList>
-            <charList type="nonrecurring" id="OW">Old woman</charList>
+            <charList type="nonrecurring" id="Old_Man">Old man</charList>
+            <charList type="nonrecurring" id="Old_Woman">Old woman</charList>
         </charlist>
         <body>
             <scene n="1">
@@ -35,11 +35,11 @@ A third Earth Kingdom soldier charges toward Zuko with his spear as well. Zuko s
 
 With the last of his cronies gone, Gow steps up to the plate to fight Zuko, dual hammers against dual swords. They draw their weapons, and Gow throws the first blow, a rock he has earthbent, and powerfully thrusts over to Zuko. Zuko deflects it readily with his swords. Gow strikes again, this time with three large rocks instead of one. He sends them over in rapid succession to Zuko, who deflects the first two easily. However, the third rock hits him in the stomach and he stumbles backward. This does not dismay him though, so he charges Gow. An old man in the crowd cheers him on.</sd>
 
-<sp><speaker ref="OM">Old man</speaker>	Give him a left! A left!</sp>
-<sp><speaker ref="OW">Old woman</speaker>	It's not a fistfight ...</sp>
-<sp><speaker ref="OM">Old man</speaker>	He's got a left sword, don't he?</sp>
+<sp><speaker ref="Old_Man">Old man</speaker>	Give him a left! A left!</sp>
+<sp><speaker ref="Old_Woman">Old woman</speaker>	It's not a fistfight ...</sp>
+<sp><speaker ref="Old_Man">Old man</speaker>	He's got a left sword, don't he?</sp>
 <sd>Gow does the same earthbending trick as earlier; he throws three large rocks at Zuko. Zuko responds the same as before, deflecting the first two but the third one hitting him square in the abdomen. However, this time, he falls over and somersaults backward, and manages to get up, although weakened and still stumbling around. Gow smiles.</sd>
-<sp><speaker ref="OM">Old man</speaker>	Look out!</sp>
+<sp><speaker ref="Old_Man">Old man</speaker>	Look out!</sp>
 <sp><speaker ref="Lee">Lee</speaker>	Behind you!</sp>
 <sd>Gow earthbends again, but with increasingly larger rocks each time. He shoots four rocks at Zuko, who manages to destroy each, one by one. It continues this way, Gow no longer giving little recovery breaks to Zuko. Both are fighting at full force, although Zuko is so busy being defensive of the large flying rocks that he cannot become offensive to Gow. However, finally Gow creates a rockalanche and directs it at Zuko. The crowd gasps collectively. Zuko is sent flying and lands straight on his back, and has a sudden flashback.
 In the flashback, Zuko is sleeping in his room at night when a hand gently touches his shoulder. He awakens drowsily to see his mother dressed in a cloak.</sd>
@@ -55,7 +55,7 @@ The flashback ends as suddenly as it begin, and we cut back to Zuko in the Earth
 <sd>Gow raises his hammers to deliver the final blow when Zuko's eyes open. He reaches for his swords and gets up firebending, creating a hurricane of flame. Gow drops his hammers and is pushed over, and lands on his back. Zuko stands there, seething at Gow. Although unarmed, Gow stands up and raises his fists, determined to finish the fight. Zuko charges him, sending various fire blasts. Gow tries to deflect them with earthbending, but the blasts are too powerful and he is sent backward again. Rocks hit his head as he lands in with a cloud of dust.</sd>
 <sp><speaker ref="Gow">Gow</speaker>	Who ... who are you?</sp>
 <sp><speaker ref="Zuko">Zuko</speaker>	My name is Zuko. Son of <char ref="Ursa">Ursa</char> and <char ref="Ozai">Fire Lord Ozai</char>. Prince of the Fire Nation, and heir to the throne.</sp>
-<sp><speaker ref="OM">Old man</speaker>	Liar! I heard of you! You're not a prince, you're an outcast! <char ref="Ozai">His own father</char> burned and disowned him!</sp>
+<sp><speaker ref="Old_Man">Old man</speaker>	Liar! I heard of you! You're not a prince, you're an outcast! <char ref="Ozai">His own father</char> burned and disowned him!</sp>
 <sd>Zuko kneels down toward Gow, who shudders in fear. However, Zuko does nothing to harm him; he only takes Lee's dagger back. Zuko walks toward Lee to give it back, but Sela (who had been untying Lee) intervenes.</sd>
 <sp><speaker ref="Sela">Sela</speaker>	Not a step closer.</sp>
 <sp><speaker ref="Zuko">Zuko</speaker>	<sd>[Zuko kneels down in front of Sela, with Lee peeking around his mother's back, offering the knife.]</sd> It's yours. You should have it.</sp>

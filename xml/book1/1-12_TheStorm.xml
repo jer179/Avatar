@@ -12,7 +12,6 @@
         <charlist>
             <charList type="recurring" id="Zuko">Zuko</charList>
             <charList type="recurring" id="Iroh">Iroh</charList>
-            <charList type="recurring" id="FlashB Iroh">Iroh</charList>
             <charList type="recurring" id="Ozai">Ozai</charList>
             <charList type="recurring" id="Helms">Helmsman</charList>
             <charList type="nonrecurring" id="Buijing">Buijing</charList>
@@ -23,12 +22,12 @@
             <scene n="1">
 <sd>Scene changes to a flashback. Zuko walks up to the curtains to get in the war room, but the guard on the left moves in front of the curtain to stop him.</sd>
 <sp><speaker ref="Zuko">Zuko</speaker>	Let me in!</sp>
-<sp><speaker ref="FlashB Iroh">Iroh</speaker>	<sd>[Places his hands on Zuko's shoulders.]</sd> <char ref="Zuko">Prince Zuko</char>, what's wrong?</sp>
+<sp><speaker ref="Iroh">Iroh</speaker>	<sd>[Places his hands on Zuko's shoulders.]</sd> <char ref="Zuko">Prince Zuko</char>, what's wrong?</sp>
 <sp><speaker ref="Zuko">Zuko</speaker>	I want to go into the war chamber <sd>[Points to the guard.]</sd> but the guard won't let me pass!</sp>
-<sp><speaker ref="FlashB Iroh">Iroh</speaker>	<sd>[Leads Zuko away with his left hand still on his shoulder.]</sd> You're not missing anything, trust me. These meetings are dreadfully boring.</sp>
+<sp><speaker ref="Iroh">Iroh</speaker>	<sd>[Leads Zuko away with his left hand still on his shoulder.]</sd> You're not missing anything, trust me. These meetings are dreadfully boring.</sp>
 <sp><speaker ref="Zuko">Zuko</speaker>	If I'm going to rule this nation one day, don't you think I need to start learning as much as I can?</sp>
-<sp><speaker ref="FlashB Iroh">Iroh</speaker>	Very well. But you must promise not to speak. <sd>[Another elder soldier walks by them into the war chamber.]</sd> These old folks are a bit sensitive, you know?</sp>
-<sp><speaker ref="Zuko">Zuko</speaker>	<sd>[Bows to Iroh.]</sd> Thank you, <char ref="FlashB Iroh">Uncle</char>.</sp>
+<sp><speaker ref="Iroh">Iroh</speaker>	Very well. But you must promise not to speak. <sd>[Another elder soldier walks by them into the war chamber.]</sd> These old folks are a bit sensitive, you know?</sp>
+<sp><speaker ref="Zuko">Zuko</speaker>	<sd>[Bows to Iroh.]</sd> Thank you, <char ref="Iroh">Uncle</char>.</sp>
 <sd>Zuko and Iroh walk into the war room. The meeting starts.</sd>
 <sp><speaker ref="Buijing">Bujing</speaker>	The Earth Kingdom defenses are concentrated here. <sd>[Bujing shows the place on the map.]</sd> A dangerous battalion of their strongest earthbenders and fiercest warriors. So I am recommending the forty-first division.</sp>
 <sp><speaker ref="EFNSoldier">Elder Soldier</speaker>	But the forty-first is entirely new recruits. How do you expect them to defeat a powerful Earth Kingdom battalion?</sp>

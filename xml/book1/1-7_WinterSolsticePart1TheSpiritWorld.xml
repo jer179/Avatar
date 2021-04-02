@@ -11,7 +11,7 @@
         <charlist>
             <charList type="recurring" id="Zuko">Zuko</charList>
             <charList type="recurring" id="Iroh">Iroh</charList>
-            <charList type="nonrecurring" id="FN Soldier">Fire Nation Soldier</charList>
+            <charList type="nonrecurring" id="FNSoldier">Fire_Nation_Soldier</charList>
             <charList type="nonrecurring" id="EKCaptain">Earth Kingdon Captain</charList>
             <charList type="recurring" id="Aang">Avatar</charList>
         </charlist>

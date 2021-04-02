@@ -14,17 +14,17 @@
             <charList type="recurring" id="Sokka">Sokka</charList>
             <charList type="recurring" id="Aang">Aang</charList>
             <charList type="recurring" id="Katara">Katara</charList>
-            <charList type="recurring" id="JeongJeong">Jeong Jeong</charList>
-            <charList type="recurring" id="TribalMan">Tribal man</charList>
+            <charList type="recurring" id="Jeong_Jeong">Jeong Jeong</charList>
+            <charList type="recurring" id="Tribal_man">Tribal man</charList>
         </charlist>
         <body>
             <scene n="1">
                 <sd>Jeong Jeong grabs a falling leaf and burns the center.</sd>
-                <sp><spkr ref="Jeong Jeong">Jeong Jeong</spkr>Concentrate on the fire. I want you to
+                <sp><spkr ref="Jeong_Jeong">Jeong Jeong</spkr>Concentrate on the fire. I want you to
                     keep the flame from reaching the edges of the leaf for as long as you can.</sp>
-                <sp><spkr ref="Tribal man">Tribal man</spkr>Master! There is trouble.</sp>
+                <sp><spkr ref="Tribal_man">Tribal man</spkr>Master! There is trouble.</sp>
                 <sp><spkr ref="Aang">Aang</spkr>What's going on?</sp>
-                <sp><spkr ref="Jeong Jeong">Jeong Jeong</spkr>Concentrate on your leaf!</sp>
+                <sp><spkr ref="Jeong_Jeong">Jeong Jeong</spkr>Concentrate on your leaf!</sp>
                 <sp><spkr ref="Aang">Aang</spkr><sd>Annoyed.</sd> This is the worst firebending
                     instruction ever! All he does is leave me for hours to concentrate or
                     breathe!</sp>
@@ -53,7 +53,7 @@
                 <sp><spkr ref="Sokka">Sokka</spkr>I told you we shouldn't mess around with this!
                     Look what you did! You burned my sister! <sd>Katara runs away.</sd> You burned
                     my sister! <sd>As Jeong Jeong walks in.</sd> This is all your fault!</sp>
-                <sp><spkr ref="Jeong Jeong">Jeong Jeong</spkr>I know! Now pack your things. You must
+                <sp><spkr ref="Jeong_Jeong">Jeong Jeong</spkr>I know! Now pack your things. You must
                     leave immediately.</sp>
                 <sd>Katara runs off.</sd>
                 <sp><spkr ref="Aang">Aang</spkr>I'm sorry, I didn't ... <sd>Sokka runs off.</sd> I'm
