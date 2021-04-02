@@ -1,32 +1,31 @@
 
-(:
+
 let $book1 := collection('book1//?select=*.xml')
 (:let $book2 := collection('book2//?select=*.xml'):)
 let $book3 := collection('book3//?select=*.xml')
-let $books := ($book1, $book3) (:book2 xml markup not completed:)
+(:let $books := ($book1, $book3):) (:book2 xml markup not completed:)
+
+(:entire episodes contqaining zuko or aang speech:)
+let $zuko-episodes := $book1//atla[descendant::spkr[@ref="Zuko"]]
+let $aang-episodes := $book1//atla[descendant::spkr[@ref="Aang"]]
 
 (:characters interacting with zuko or aang:)
 let $zuko-ref := $zuko-episodes//spkr/data(@ref)
 let $aang-ref := $aang-episodes//spkr/data(@ref)
 
-
-(:entire episodes contqaining zuko or aang speech:)
-let $zuko-episodes := $books//atla[descendant::spkr[@ref="Zuko"]]
-let $aang-episodes := $books//atla[descendant::spkr[@ref="Aang"]]
-
 (:each time zuko or aang spoke:)
-let $zuko-spkr := $books//spkr[@ref="Zuko"]
-let $aang-spkr := $books//spkr[@ref="Aang"]
+let $zuko-spkr := $book3//spkr[@ref="Sokka"]
+let $aang-spkr := $book1//spkr[@ref="Aang"]
 
 (:each time any character spoke:)
-let $spkr := $books//spkr
+let $spkr := $book1//spkr
 
 (:amount of times zuko or aang spoke:)
 let $zuko-count := $zuko-spkr => count() (:amount of episodes:)
 let $aang-count := $aang-spkr => count()
-:)
 
-<html>
+
+(:<html>
     <head>
         <title>Avatar Table</title>
     </head>
@@ -57,7 +56,7 @@ return
            
            </table>
         </body>
-</html>
+</html>:)
 
 
 
@@ -66,6 +65,9 @@ return
 
 
 (:return (concat ("In the show, Avatar, the character ", $aang-name, " speaks ", $aang-count, " times.")):)
+
+
+return (" speaks ", $zuko-count, " times.")
 
 (:return (concat ("&#xa;", "In the show, Avatar, the character ", $speaker, " speaks ", $spkr-count, " times.")):)
 
