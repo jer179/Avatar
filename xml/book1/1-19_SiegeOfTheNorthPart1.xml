@@ -17,16 +17,16 @@
             <body>
                 <scene n="1">
 <sd>Cuts inside a room where Zuko prepares a boat, winding up some rope. Iroh enters.</sd>
-<sp><speaker ref="Iroh">Iroh</speaker>	If you're fishing for an octopus <char ref="Zuko">my nephew</char>, you need a tightly woven net, or he will squeeze through the tiniest hole and escape.</sp>
-<sp><speaker ref="Zuko">Zuko</speaker>	I don't need your wisdom right now, <char ref="Iroh">Uncle</char>.</sp>
-<sp><speaker ref="Iroh">Iroh</speaker>	I'm sorry. I just nag you, because ... well, <sd>[Voice breaking slightly.]</sd> ever since I lost <char ref="Lu_Ten">my son</char> ...</sp>
-<sp><speaker ref="Zuko">Zuko</speaker>	<char ref="Iroh">Uncle</char>, you don't have to say it.</sp>
-<sp><speaker ref="Iroh">Iroh</speaker>	... I think of you as my own.</sp>
-<sp><speaker ref="Zuko">Zuko</speaker>	<sd>[Faces his uncle, a softer expression on his face.]</sd> I know, <char ref="Iroh">Uncle</char>. We'll meet again. <sd>[Iroh hugs him.]</sd> After I have the <char ref="Aang">Avatar</char>. <sd>[He turns away and gets on the boat.]</sd></sp>
-<sp><speaker ref="Iroh">Iroh</speaker>	Remember your breath of fire. It could save your life out there.</sp>
-<sp><speaker ref="Zuko">Zuko</speaker>	I will. <sd>[Lowers the boat, suspended by ropes, down the side of the ship into the water.]</sd></sp>
-<sp><speaker ref="Iroh">Iroh</speaker>	And put your hood up. Keep your ears warm!</sp>
-<sp><speaker ref="Zuko">Zuko</speaker>	I'll be fine!</sp></scene>
+<sp><spkr ref="Iroh">Iroh</spkr>	If you're fishing for an octopus <char ref="Zuko">my nephew</char>, you need a tightly woven net, or he will squeeze through the tiniest hole and escape.</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	I don't need your wisdom right now, <char ref="Iroh">Uncle</char>.</sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	I'm sorry. I just nag you, because ... well, <sd>[Voice breaking slightly.]</sd> ever since I lost <char ref="Lu_Ten">my son</char> ...</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	<char ref="Iroh">Uncle</char>, you don't have to say it.</sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	... I think of you as my own.</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	<sd>[Faces his uncle, a softer expression on his face.]</sd> I know, <char ref="Iroh">Uncle</char>. We'll meet again. <sd>[Iroh hugs him.]</sd> After I have the <char ref="Aang">Avatar</char>. <sd>[He turns away and gets on the boat.]</sd></sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	Remember your breath of fire. It could save your life out there.</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	I will. <sd>[Lowers the boat, suspended by ropes, down the side of the ship into the water.]</sd></sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	And put your hood up. Keep your ears warm!</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	I'll be fine!</sp></scene>
                 </body>
         </transcript>
     
