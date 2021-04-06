@@ -5,8 +5,10 @@ let $book3 := collection('book3//?select=*.xml')
 (:let $books := ($book1, $book3):) (:book2 xml markup not completed:)
 :)
 
-declare variable $speech := collection('book1//?select=*.xml')//scene;
+declare variable $speech := collection('book1/Aang//?select=*.xml')//scene;
+declare variable $speechA := collection('book1/Aang//?select=*.xml')//scene;
 declare variable $speakers := $speech//spkr/data(@ref) => distinct-values();
+declare variable $speakersA := $speechA//spkr/data(@ref) => distinct-values();
 declare variable $xspacer := 10;
 declare variable $yspacer := 25;
 
