@@ -6,13 +6,7 @@ declare variable $speech := $books//sp;
 declare variable $speakers := $speech//spkr/data(@ref)=> distinct-values();
 declare variable $xspacer := 10;
 declare variable $yspacer := 25;
-<html>
-    <head>
-        <title>Avatar</title>
-    </head>
-    <body>
-    <h1>Frequency of Character Speeches in Avatar</h1>
-    <p>*only for scripts included in our project*</p>
+
         <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
             <g transform="translate(150,100)">
                 <g>
@@ -32,6 +26,3 @@ declare variable $yspacer := 25;
                 </g>
             </g>
         </svg>
-        
-    </body>
-</html>
