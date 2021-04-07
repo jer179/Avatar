@@ -14,6 +14,16 @@ declare variable $yspacer := 25;
 
 
 
+<html>
+    <head>
+        <title>Avatar Speakers</title>
+    </head>
+    
+        <body>
+            <h1>Book 1: Who Spoke the Most?</h1>
+            <p>Red = Scenes Crucial to Zuko</p>
+            <p>Blue = Scenes Crucial to Aang</p>
+
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
     <g transform="translate(150,100)">
@@ -41,3 +51,7 @@ declare variable $yspacer := 25;
         </g>
         </g>
 </svg>
+
+
+        </body>
+    </html>
