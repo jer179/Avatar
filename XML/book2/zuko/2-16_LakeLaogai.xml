@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<atla>
+    <transcript>
+        <head>
+            <episode n="16">Lake Laogai</episode>
+            <book n="2">Earth</book>
+            <source link="https://avatar.fandom.com/wiki/Transcript:Lake_Laogai_(episode)"/>
+        </head>
+        
+        <charlist>
+            <charList type="recurring" id="Zuko">Blue Spirit, Zuko</charList>
+            <charList type="recurring" id="Zuko">Zuko</charList>
+            <charList type="recurring" id="Iroh">Iroh</charList>
+            <charList type="recurring" id="Aang">Aang</charList>
+        </charlist>
+        <body>
+            <scene n="1">
+<sd>Cut to Appa growling at the disguised Zuko. Appa tries to strike Zuko, but his chained feet hold him back.</sd>
+<sp><spkr ref="Zuko">Zuko</spkr>	You're mine now.</sp>
+<sd>The door opens and Zuko gets into a fighting stance. Iroh enters.</sd>
+<sp><spkr ref="Zuko">Zuko</spkr>	<char ref="Iroh">Uncle</char>?</sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	So, the <char ref="Zuko">Blue Spirit</char>. I wonder who could be behind that mask ...</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	<sd>[Sighs and takes off the mask.]</sd> What are you doing here?</sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	I was just about to ask you the same thing. What do you plan to do now that you've found the <char ref="Aang">Avatar</char>'s bison? Keep him locked in our new apartment? Should I go put on a pot of tea for him?</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	First I have to get it out of here.</sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	<sd>[Starts yelling.]</sd> And then what!? You never think these things through! <sd>[Points at him.]</sd> This is exactly what happened when you captured the <char ref="Aang">Avatar</char> at the North Pole! You had him, and then you had nowhere to go!</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	I would have figured something out!</sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	No! If his friends hadn't found you, you would have frozen to death!</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	I know my own destiny, <char ref="Iroh">Uncle</char>!</sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	Is it your own destiny, or is it a destiny someone else has tried to force on you?</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>	Stop it, <char ref="Iroh">Uncle</char>! I have to do this!</sp>
+<sp><spkr ref="Iroh">Iroh</spkr>	I'm begging you, <char ref="Zuko">Prince Zuko</char>! It's time for you to look inward and begin asking yourself the big questions. Who are you, and what do you want?</sp>
+<sd>Zuko screams loudly, throwing down his swords and Blue Spirit mask.</sd></scene> 
+        </body>
+    </transcript>
+</atla>

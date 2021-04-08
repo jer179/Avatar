@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../XSLT/Avatar_CSS_7.css"?>
+<?xml-stylesheet type="text/xsl" href="../XSLT/Avatar_XSLT_07.xsl"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<atla>
+    <transcript>
+        <head>
+            <episode n="9">Bitter Work</episode>
+            <book n="2">Earth</book>
+            <source link="https://avatar.fandom.com/wiki/Bitter_Work"/>
+        </head>
+        <charlist>
+            <charList type="recurring" id="Aang">Aang</charList>
+            <charList type="recurring" id="Sokka">Sokka</charList>
+            <charList type="recurring" id="Toph">Toph</charList>
+        </charlist>
+        <body>
+            <scene n="1">
+                <sd>Suddenly, a large moose-lion appears.</sd>
+                <sp><spkr ref="Aang">Aang</spkr>Hey there, we found your cub! See, we have no problem with you! We're friendly!</sp>
+                <sp><spkr ref="Sokka">Sokka</spkr>Aang, this is bad, you've got to get me out of here!</sp>
+                <sd>The moose-lion charges at Sokka, but Aang sends it over his head with airbending.</sd>
+                <sp><spkr ref="Sokka">Sokka</spkr>This is really bad! Please Aang, you have to earthbend me out, there's no other way!</sp>
+                <sd>Aang tries, but all his attempts produce nothing.</sd>
+                <sp><spkr ref="Aang">Aang</spkr>Oh no! <sd>Gets on top of a rock to try and distract the saber-tooth moose-lion.</sd> Woo-hoo, look at me!</sp>
+                <sd>The moose-lion charges again but is again held off.</sd>
+                <sp><spkr ref="Sokka">Sokka</spkr>Please, don't leave me again.</sp>
+                <sp><spkr ref="Aang">Aang</spkr>I won't.</sp>
+                <sd>He stands his ground, and at the last second, throws the moose-lion back with a blast of air. The beast leaves. Suddenly, slight clapping can be heard. Cut to shot of Toph sitting on a rock nearby.</sd>
+                <sp><spkr ref="Sokka">Sokka</spkr>What are you doing here?</sp>
+                <sp><spkr ref="Toph">Toph</spkr>Just enjoying the show.</sp>
+                <sp><spkr ref="Aang">Aang</spkr>What? You were there the whole time?</sp>
+                <sp><spkr ref="Toph">Toph</spkr>Pretty much.</sp>
+                <sp><spkr ref="Aang">Aang</spkr>Why didn't you do something? Sokka was in trouble! I was in trouble! You could have gotten him out and helped us get away!</sp>
+                <sp><spkr ref="Toph">Toph</spkr>Guess it just didn't occur to me. <sd>Throws a nut down and attempts to crack it with the staff.</sd></sp>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Grabs hold of it.</sd> Enough! I want my staff back! <sd>Takes it away.</sd></sp>
+                <sp><spkr ref="Toph">Toph</spkr>Do it now!</sp>
+                <sp><spkr ref="Aang">Aang</spkr>What?</sp>
+                <sp><spkr ref="Toph">Toph</spkr>Earthbend, Twinkle Toes. You just stood your ground against a crazy beast. And even more impressive, you stood your ground against me. You've got stuff.</sp>
+                <sp><spkr ref="Aang">Aang</spkr>But–</sp>
+                <sp><spkr ref="Toph">Toph</spkr>Do it!</sp>
+                <sd>Aang slams the ground and sends a rock into the canyon wall.</sd>
+                <sp><spkr ref="Toph">Toph</spkr>You did it! You're an earthbender.</sp>
+                <sp><spkr ref="Aang">Aang</spkr>I can't believe it!</sp>
+            </scene>
+        </body>
+    </transcript>
+</atla>

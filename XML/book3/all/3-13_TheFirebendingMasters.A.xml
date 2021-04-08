@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<atla>
+    <transcript>
+        <head>
+            <episode n="13">The Firebending Masters</episode>
+            <book n="3">Fire</book>
+            <source link="https://avatar.fandom.com/wiki/The_Firebending_Masters"/>
+        </head>
+        
+        <charlist>
+            <charList type="recurring" id="Aang">Aang</charList>
+            <charList type="recurring" id="Zuko">Zuko</charList>
+            <charList type="recurring" id="Sun_Warrior_chief">Sun Warrior chief</charList>
+        </charlist>
+        <body>
+            <scene n="1">
+<sp><spkr ref="Zuko">Zuko</spkr><sd>Cut to Zuko.</sd> I can't believe there are still living dragons. My uncle Iroh said he faced the last dragon and killed it.</sp>
+<sp><spkr ref="Aang">Aang</spkr><sd>Looking at Zuko.</sd> So your uncle lied.</sp>
+<sp><spkr ref="Sun_Warrior_chief">Sun Warrior chief</spkr><sd>Cut to the smiling chief from the side.</sd> Actually, it wasn't a total lie. Iroh was the last outsider to face the masters. <sd>Raising his hand above slightly.</sd> They deemed him worthy and passed the secret onto him as well.</sp>
+<sp><spkr ref="Zuko">Zuko</spkr><sd>Surprised. Shot cuts to an aerial shot of the courtyard.</sd> He must have lied to protect them, so no one else would hunt them.</sp>
+<sp><spkr ref="Aang">Aang</spkr><sd>Cut to Aang.</sd> All this time, I thought firebending was destruction. Since I hurt Katara, I've been too afraid and hesitant. But now I know what it really is ... it's energy, and life. <sd>He smiles.</sd></sp>
+<sp><spkr ref="Zuko">Zuko</spkr>Yeah. It's like the Sun, <sd>He curls his hand into a fist.</sd> but inside of you. Do you guys realize this?</sp>
+<sp><spkr ref="Sun_Warrior_chief">Sun Warrior chief</spkr><sd>Smiling.</sd> Well, our civilization is called the Sun Warriors ... so yeah.</sp>
+<sp><spkr ref="Zuko">Zuko</spkr>That's why my firebending was so weak before. Because for so many years, hunting you <sd>Turns toward Aang as screen zooms out to show Aang.</sd> was my drive ... it was my purpose. <sd>Aang turns toward Zuko as well.</sd> So when I joined you, I lost sight of my inner fire. But now, I have a new drive. <sd>Cut to Zuko's face as screen zooms in.</sd> I have to help you defeat my father and restore balance to the world.</sp>
+<sd>Zuko delivers two fire blasts more powerful than in the Western Air Temple. Aang also bends a similar blast. Cut to Aang's face, as he grins at his success. Cut to both of them, who walk toward each other, smiling.</sd>
+            </scene>
+        </body>
+    </transcript>
+</atla>

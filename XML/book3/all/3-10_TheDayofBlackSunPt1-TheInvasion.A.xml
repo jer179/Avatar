@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<atla>
+    <transcript>
+        <head>
+            <episode n="10">The Day of Black Sun Part 1: The Invasion</episode>
+            <book n="3">Fire</book>
+            <source link="https://avatar.fandom.com/wiki/The_Day_of_Black_Sun,_Part_1:_The_Invasion"/>
+        </head>
+        
+        <charlist>
+            <charList type="recurring" id="Aang">Aang</charList>
+            <charList type="recurring" id="Toph">Toph</charList>
+            <charList type="recurring" id="Hakoda">Hakoda</charList>
+            <charList type="recurring" id="Sokka">Sokka</charList>
+            <charList type="recurring" id="Katara">Katara</charList>
+        </charlist>
+        <body>
+            <scene n="1">
+<sp><spkr ref="Sokka">Sokka</spkr>Are you ready for the Fire Nation to know the Avatar is alive?</sp>
+<sp><spkr ref="Aang">Aang</spkr>I'm ready. <sd>Sokka and Aang shake hands and the group hugs.</sd></sp>
+<sp><spkr ref="Toph">Toph</spkr>I hope you kick some serious Fire Lord butt, Twinkle Toes.</sp>
+<sp><spkr ref="Hakoda">Hakoda</spkr>Everyone listen up. <sd>Team Avatar comes out of the hug.</sd> The next time we resurface, it'll be on the beaches. So stay alert, and fight smart. Now break time's over, back in the subs. <sd>Sokka, Toph, and Momo leave Katara and Aang standing alone together.</sd></sp>
+<sp><spkr ref="Aang">Aang</spkr><sd>Turning to see Katara.</sd> Katara, I ...</sp>
+<sp><spkr ref="Katara">Katara</spkr><sd>Speaking at the same time.</sd> Aang, I ...</sp>
+<sp><spkr ref="Aang">Aang</spkr>You go first.</sp>
+<sp><spkr ref="Katara">Katara</spkr>We've been through so many things together, and I've seen you grow up so much. You're not that little goofy kid I found in the iceberg anymore. <sd>Aang blushes.</sd> I guess what I'm trying to say is, I'm really proud of you.</sp>
+<sp><spkr ref="Aang">Aang</spkr>Everything's gonna be different after today, isn't it.</sp>
+<sp><spkr ref="Katara">Katara</spkr>Yes, it is.</sp>
+<sp><spkr ref="Aang">Aang</spkr>What if ... what if I don't come back?</sp>
+<sp><spkr ref="Katara">Katara</spkr>Aang, don't say that, of course you'll- <sd>Katara is cut off as Aang kisses her. After the kiss, Katara blushes and stares sadly after Aang as he confidently snaps his glider and flies away.</sd></sp>
+<sp><spkr ref="Sokka">Sokka</spkr>Katara, what are you doing? It's time to submerge.</sp>
+<sp><spkr ref="Katara">Katara</spkr>What? Right, I'm on it. <sd>Jumps onto Appa and waterbends a sphere of water around his head before submerging.</sd></sp>
+            </scene>
+        </body>
+    </transcript>
+</atla>

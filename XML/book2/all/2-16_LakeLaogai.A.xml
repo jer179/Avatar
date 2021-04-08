@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../XSLT/Avatar_CSS_7.css"?>
+<?xml-stylesheet type="text/xsl" href="../XSLT/Avatar_XSLT_07.xsl"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<atla>
+    <transcript>
+        <head>
+            <episode n="16">Lake Laogai</episode>
+            <book n="2">Earth</book>
+            <source link="https://avatar.fandom.com/wiki/Lake_Laogai_(episode)"/>
+        </head>
+        <charlist>
+            <charList type="recurring" id="Aang">Aang</charList>
+            <charList type="recurring" id="Sokka">Sokka</charList>
+            <charList type="recurring" id="Long_Feng">Long Feng</charList>
+        </charlist>
+        <body>
+            <scene n="1">
+                <sd>Team Avatar reaches Appa's hold, only to discover that it is empty.</sd>
+                <sp><spkr ref="Aang">Aang</spkr>Appa's gone! Long Feng beat us here.</sp>
+                <sp><spkr ref="Sokka">Sokka</spkr>If we keep moving, maybe we can catch up with them!</sp>
+                <sd>They find an exit back to the beach. As they make their escape, several Dai Li agents jump out from behind them.</sd>
+                <sp><spkr ref="Sokka">Sokka</spkr>You think we can outrun them?</sp>
+                <sp><spkr ref="Aang">Aang</spkr>I don't think it's gonna matter!</sp>
+                <sd>Another group of Dai Li agents, plus Long Feng, stand in front of them. All the agents box them in, lifting up the ground on both sides. Dai Li agents stand on all three walls. Momo flies to Aang.</sd>
+                <sp><spkr ref="Aang">Aang</spkr>What is it, Momo?</sp>
+                <sd>Momo flies to the sky and chirps excitedly. Suddenly, Appa flies down. Cut to the overjoyed looks on Team Avatar's faces.]</sd>
+                <sp><spkr ref="Aang">Aang</spkr>Appa!</sp>
+                <sd>Appa smashes through the rock walls, scattering the Dai Li agents. Aang and Toph use earthbending to knock other nearby agents off a cliff and into the lake. Appa confronts Long Feng.</sd>
+                <sp><spkr ref="Long_Feng">Long Feng</spkr>I can handle you by myself.</sp>
+                <sd>Long Feng charges at Appa, but Appa grabs his leg and hurtles him skipping into the lake. Appa spits out Long Feng's shoe. The team cheers and they run toward Appa.</sd>
+                <sp><spkr ref="Sokka">Sokka</spkr>Yeah! Appa!</sp>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Happily crying.</sd> I missed you, buddy.</sp>
+                <sd>Appa closes his eyes. A teary-eyed Katara somberly looks over Lake Laogai as they fly over it on Appa. Aang places his hand on her shoulder. The team all gathers in a group hug.</sd>
+            </scene>
+        </body>
+    </transcript>
+</atla>

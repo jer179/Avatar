@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../XSLT/Avatar_CSS_7.css"?>
+<?xml-stylesheet type="text/xsl" href="../XSLT/Avatar_XSLT_07.xsl"?>
+
+<?xml-model href="../avatar_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<atla>
+    <transcript>
+        <head>
+            <episode n="8">Winter Solstice, Part 2: Avatar Roku</episode>
+            <book n="1">Water</book>
+            <source link="https://avatar.fandom.com/wiki/Winter_Solstice,_Part_2:_Avatar_Roku"/>
+        </head>
+        <charlist>
+            <charList type="recurring" id="Sokka">Sokka</charList>
+            <charList type="recurring" id="Aang">Aang</charList>
+            <charList type="recurring" id="Katara">Katara</charList>
+            <charList type="recurring" id="Roku">Roku</charList>
+            <charList type="recurring" id="Zhao">Zhao</charList>
+        </charlist>
+        <body>
+            <scene n="1">
+                <sp><spkr ref="Roku">Roku</spkr>I have something very important to tell you, Aang. That is why, when you were in the Spirit World, I sent my dragon to find you.</sp>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Interested, curious.</sd> Is it about that vision? The one of the comet?</sp>
+                <sp><spkr ref="Roku">Roku</spkr>Yes.</sp>
+                <sp><spkr ref="Aang">Aang</spkr>What does it mean?</sp>
+                <sp><spkr ref="Roku">Roku</spkr>One hundred years ago, <sd>Viewers see a visual of a comet in the dark sky.</sd> Fire Lord Sozin used that comet to begin the War. He and his firebending army harnessed its incredible power, and dealt a deadly first strike against the other nations.</sp>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Close-up.</sd> So the comet made them stronger?</sp>
+                <sp><spkr ref="Roku">Roku</spkr><sd>Close-up.</sd> Yes. Stronger than you could even imagine.</sp>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Close-up.</sd> But that happened a hundred years ago. What does the comet have to do with the War now?</sp>
+                <sp><spkr ref="Roku">Roku</spkr>Listen carefully. <sd>Viewers see silhouette of Fire Lord Ozai standing amid flames, fists taut.</sd> Sozin's Comet will return by the end of this summer, and Fire Lord Ozai will use its power to finish the War, once and for all. <sd>Visual and audio of Ozai's silhouette roaring upward, fire streaming from his mouth.</sd> If he succeeds, even the Avatar won't be able to restore balance to the world. Aang. You must defeat the Fire Lord, before the comet arrives.</sp>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Counters anxiously.</sd> But I haven't even started learning waterbending! Not to mention earth and fire!</sp>
+                <sp><spkr ref="Roku">Roku</spkr>Mastering the elements takes years of discipline and practice. But if the world is to survive, you must do it by summer's end. <sd>Close-up of a shocked Aang.</sd></sp>
+                <sd>Firebenders, including Zhao and his crew, circle around the door's perimeter, assuming a firebending form. A monk chant begins for the audience only. They wait patiently for the door to open.</sd>
+                <sp><spkr ref="Zhao">Zhao</spkr>When those doors open, <sd>Shouts.</sd> unleash all your firepower!</sp>
+                <sp><spkr ref="Katara">Katara</spkr><sd>Worried.</sd> How's Aang gonna make it out of this?</sp>
+                <sp><spkr ref="Sokka">Sokka</spkr><sd>Troubled, questioning.</sd> How are we gonna make it out of this?</sp>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Terrified.</sd> What if I can't master all the elements in time? What if I fail?</sp>
+                <sp><spkr ref="Roku">Roku</spkr> know you can do it Aang. <sd>Close-up of half his face.</sd> For you have done it before. <sd>Close-up of half of Aang's now-smiling face.</sd> The solstice is ending. We must go our separate ways, for now.</sp>
+            </scene>
+        </body>
+    </transcript>
+</atla>
