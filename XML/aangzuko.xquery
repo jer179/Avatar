@@ -20,7 +20,7 @@ declare variable $yspacer := 25;
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
     <g transform="translate(150,100)">
     <g>
-    <text x="0" y="-5" font-family="sans-serif" font-size="20px" fill="black">Character Appearances with Zuko and Aang</text>
+    <text x="100" y="-5" font-family="sans-serif" font-size="20px" fill="black">Character Appearances with Zuko and Aang</text>
     </g>
     <g>
     
@@ -33,7 +33,7 @@ declare variable $yspacer := 25;
             <g>
             <!-- ZUKO -->
             <!-- NAME -->
-            <text x="-80" y="{$posZ * $yspacer + 5}" font-family="sans-serif" font-size="12px" fill="black">{$sceneZ}</text>
+            <text x="-60" y="{$posZ * $yspacer + 5}" font-family="sans-serif" font-size="13px" fill="black">{$sceneZ}</text>
             <!-- RED ZUKO BAR -->
             <line x1="300" y1="{$posZ * $yspacer}" x2="{(300 + (-$spkr-speech-countZ * $xspacer))}" y2="{$posZ * $yspacer}" stroke="red" stroke-width="15"/>
             <!-- NUMBER -->
@@ -47,7 +47,7 @@ declare variable $yspacer := 25;
             <!-- BLUE AANG BAR -->
             <line x1="300" y1="{$posA * $yspacer}" x2="{(300 + ($spkr-speech-countA * $xspacer))}" y2="{$posA * $yspacer}" stroke="blue" stroke-width="15"/>
             <!-- NUMBER -->
-            <text x="{(300 + ($spkr-speech-countA * $xspacer)) + 20}" y="{$posA * $yspacer + 5}" font-family="sans-serif" font-size="12px" fill="blue">{$spkr-speech-countA}</text>
+            <text x="{(300 + ($spkr-speech-countA * $xspacer)) + 10}" y="{$posA * $yspacer + 5}" font-family="sans-serif" font-size="12px" fill="black">{$spkr-speech-countA}</text>
             <!--<line x1="0" y1="0" x2="0" y2="{max($posA + 1) * $yspacer}" stroke="black" stroke-width="2"/>-->
             
             
