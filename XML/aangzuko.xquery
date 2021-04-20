@@ -29,6 +29,7 @@ declare variable $yspacer := 25;
         let $spkr-speech-countZ := $speechZ//Q{}scene/Q{}sp[Q{}spkr/data(@ref) = $sceneZ]/.. => count()
         for $sceneA at $posA in $speakersA
         let $spkr-speech-countA := $speechA//Q{}scene/Q{}sp[Q{}spkr/data(@ref) = $sceneA]/.. => count()
+        order by $spkr-speech-countA
         return
             <g>
             <!-- ZUKO -->
@@ -44,6 +45,7 @@ declare variable $yspacer := 25;
             
             
             <!-- AANG -->
+            <text x="600" y="{$posA * $yspacer + 5}" font-family="sans-serif" font-size="13px" fill="black">{$sceneA}</text>
             <!-- BLUE AANG BAR -->
             <line x1="300" y1="{$posA * $yspacer}" x2="{(300 + ($spkr-speech-countA * $xspacer))}" y2="{$posA * $yspacer}" stroke="blue" stroke-width="15"/>
             <!-- NUMBER -->
