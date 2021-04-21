@@ -13,7 +13,7 @@
         omit-xml-declaration="yes"/>
     
     <!-- collection creation -->
-    <xsl:variable name="avatarColl" select="collection('xml/book3/?select=*.xml')"/>
+    <xsl:variable name="avatarColl" select="collection('xml/book3/aang/?select=*.xml')"/>
 
     <!-- structure -->
     <xsl:template match="/">
@@ -70,14 +70,14 @@
     
 
     <!-- span.Zuko for Zuko and span.Other for all other characters -->
-    <xsl:template match="speaker[@ref='Zuko']">
-        <span class="Zuko">
+    <xsl:template match="spkr[@ref='Aang']">
+        <span class="Aang">
             <xsl:apply-templates/>:
         </span>       
     </xsl:template>
 
     <!-- Problem in 1_19 Seige of North pt1 due to incomplete markup -->
-    <xsl:template match="speaker[not(contains(@ref,'Zuko'))]">
+    <xsl:template match="spkr[not(contains(@ref,'Aang'))]">
         <span class="Other">
             <xsl:apply-templates/>:
         </span>       

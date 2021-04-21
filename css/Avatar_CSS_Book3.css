@@ -1,3 +1,14 @@
+
+@font-face {
+    font-family: 'slayerregular';
+    src: url("slayerfont/slayer11-webfont.woff2") format('woff2'),
+         url("slayerfont/slayer11-webfont.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* https://newtfire.org/avatar/css/slayerfont/slayer11-webfont.woff2 */
+
 body {
   background-color: #ffba96;
   
@@ -6,16 +17,23 @@ h1 {
   color: #ed4200;
   text-align: center;
   font-size: 18px;
-  font-family: Georgia;
+  font-family: 'slayerregular';
   
 }
 h2{
     color: #ed4200;
     text-align: center;
     font-size: 18px;
-    font-family: Georgia;
+    font-family: 'slayerregular';
     border-bottom-style: solid;
     border-width: 2px;
+}
+h3 {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'slayerregular';
+  
 }
 
 p {
@@ -29,6 +47,11 @@ p2{
 }
 span.Zuko{
     color: #cc0000;
+    font-weight: bold;
+    
+}
+span.Aang{
+    color: blue;
     font-weight: bold;
     
 }
