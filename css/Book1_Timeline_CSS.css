@@ -1,13 +1,27 @@
+@font-face {
+    font-family: 'slayerregular';
+    src: url("slayerfont/slayer11-webfont.woff2") format('woff2'),
+         url("slayerfont/slayer11-webfont.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* https://newtfire.org/avatar/css/slayerfont/slayer11-webfont.woff2 */
+
 body {
   background-color: #66b3ff;
 }
 h1 {
   color: white;
   text-align: center;
-  font-family: veranda;
+  font-family: 'slayerregular';
    border-bottom-style: solid;
   border-color: #0073e6;
   border-width: 2px;
+}
+h2 {
+   font-family: 'slayerregular';
+    font-size: 18px;
 }
 p {
   color: black;
