@@ -20,7 +20,7 @@
         <body>
             <scene n="1">
 <sd>Back in the sea, Aang struggles to stay above water or reach his glider. After letting out a scream, a wave overcomes him and he falls into the water. He re-emerges after a brief time.</sd>
-<sp><spkr ref="Aang">Aang</spkr>I'm not gonna make it. I failed. <sd>Within the lightning strikes, the spirit of Roku appears before <char ref="Aang">Aang</char>.</sd> <char ref="Roku">Roku</char>?</sp>
+<sp><spkr ref="Aang">Aang</spkr>I'm not gonna make it. I failed. <sd>Within the lightning strikes, the spirit of Roku appears before <char ref="Aang">Aang</char>.</sd> Roku?</sp>
 <sp><spkr ref="Roku">Roku</spkr>You haven't failed, <char ref="Aang">Aang</char>.</sp>
 <sp><spkr ref="Aang">Aang</spkr>But everyone thinks I'm dead again. They think I've abandoned them, and I'm losing this war. I'm letting the whole world down.</sp>
 <sp><spkr ref="Roku">Roku</spkr>If anyone is to blame for the state of the world, it is me. I should have seen this war coming and prevented it. You inherited my problems and my mistakes. But I believe you are destined to redeem me and save the world.</sp>

@@ -18,7 +18,7 @@
         <body>
             <scene n="1">
                 <sd>Team Avatar reaches Appa's hold, only to discover that it is empty.</sd>
-                <sp><spkr ref="Aang">Aang</spkr>Appa's gone! <char ref="Long Feng">Long Feng</char> beat us here.</sp>
+                <sp><spkr ref="Aang">Aang</spkr>Appa's gone! Long Feng beat us here.</sp>
                 <sp><spkr ref="Sokka">Sokka</spkr>If we keep moving, maybe we can catch up with them!</sp>
                 <sd>They find an exit back to the beach. As they make their escape, several Dai Li agents jump out from behind them.</sd>
                 <sp><spkr ref="Sokka">Sokka</spkr>You think we can outrun them?</sp>

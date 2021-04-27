@@ -19,7 +19,7 @@
             <scene n="1">
                 <sp><spkr ref="Zuko">Zuko</spkr>Nice try, Avatar! But these little girls can't save
                     you.</sp>
-                <sp><spkr ref="Aang">Aang</spkr><sd>Close-up of <char ref="Zuko">Zuko</char>.</sd> Hey! Over here!</sp>
+                <sp><spkr ref="Aang">Aang</spkr><sd>Close-up of Zuko.</sd> Hey! Over here!</sp>
                 <sd>Zuko turns around. Close-up of a determined Aang standing at the beginning of
                     the main street, holding his staff in front of him like he is challenging the
                     prince.</sd>
@@ -51,7 +51,7 @@
                 <sd>Camera turns to Katara. Five little girls can be seen behind her in the house.
                     Koko stands in the doorway holding Momo, whole the girl next to her peeks around
                     the door frame with a worried look upon her face.</sd>
-                <sp><spkr ref="Katara">Katara</spkr>Then let's get out of here. <char ref="Zuko">Zuko</char> will leave
+                <sp><spkr ref="Katara">Katara</spkr>Then let's get out of here. Zuko will leave
                     Kyoshi to follow us. I know it feels wrong to run, but I think it's the only
                     way.</sp>
                 <sp><spkr ref="Aang">Aang</spkr><sd>Sad.</sd> I'll call Appa.</sp>

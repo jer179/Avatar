@@ -43,7 +43,7 @@
                 <sp><spkr ref="Sokka">Sokka</spkr>See you in the big city.</sp>
                 <sp><spkr ref="Toph">Toph</spkr>Say hi to that big fuzzball for me. <sd>Punches <char ref="Aang">Aang</char> in the arm.</sd></sp>
                 <sp><spkr ref="Katara">Katara</spkr>You'll find him, <char ref="Aang">Aang</char>.</sp>
-                <sp><spkr ref="Aang">Aang</spkr>I know. <char ref="Than">Than</char>k you, <char ref="Katara">Katara</char>. You ready, Momo?</sp>
+                <sp><spkr ref="Aang">Aang</spkr>I know. Thank you, <char ref="Katara">Katara</char>. You ready, Momo?</sp>
                 <sd>Aang and Momo fly off. The rest wave goodbye.</sd>
             </scene>
         </body>

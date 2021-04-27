@@ -43,11 +43,11 @@
                 <sd>Aang tosses it into the air and spreads his arms out. For a second, he has a
                     smile on his face, but it vanishes as he accidentally burns Katara's hands.
                     Katara shrieks in pain.</sd>
-                <sp><spkr ref="Aang">Aang</spkr><char ref="Katara">Katara</char>! I'm so sorry!</sp>
+                <sp><spkr ref="Aang">Aang</spkr>Katara! I'm so sorry!</sp>
                 <sd>Sokka comes running to Katara's side.</sd>
-                <sp><spkr ref="Sokka">Sokka</spkr><sd>Concerned.</sd> <char ref="Katara">Katara</char>, what's wrong?
+                <sp><spkr ref="Sokka">Sokka</spkr><sd>Concerned.</sd> Katara, what's wrong?
                         <sd>Angrily.</sd> What did you do?!</sp>
-                <sp><spkr ref="Aang">Aang</spkr>It was an accident! I was, uh... <char ref="Katara">Katara</char>, I'm
+                <sp><spkr ref="Aang">Aang</spkr>It was an accident! I was, uh... Katara, I'm
                     so--</sp>
                 <sd>Sokka tackles Aang.</sd>
                 <sp><spkr ref="Sokka">Sokka</spkr>I told you we shouldn't mess around with this!
