@@ -65,8 +65,6 @@ p {
   margin-right: auto;
     max-width: 100%;
   height: auto;
-    transition: transform .2s; /* Animation */
-    transform: scale(1.2);
     padding: 100px 0px 100px 0px;
 }
 
