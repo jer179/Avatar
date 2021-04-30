@@ -8,10 +8,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
         <link type="text/css" href="css/index_styles.css" rel="stylesheet" />
     </head>
-    <body>
-        <!--#include virtual="menu.html" -->
-        <h1>Graphs</h1>
-        <p>The SVG graph below tells us the amount of scenes each character has with Zuko (in Red) and Aang (in Blue).  We used XQuery by creating a loop per character for each collection of XML files.  I expected Aang and Zuko to show up more often in the other's respective scenes considering the amount of influence the other has on character growth and development.  I also found it interesting that Katara and Sokka appeared equally in Aang's scenes.</p>
+      <body>
+            <!--#include virtual="menu.html" -->
+            <h1>Graphs</h1>
+            <p>The SVG graph below tells us the amount of scenes each character has with Zuko (in Red) and Aang (in Blue).  We used XQuery by creating a loop per character for each collection of XML files.  I expected Aang and Zuko to show up more often in the other's respective scenes considering the amount of influence the other has on character growth and development.  I also found it interesting that Katara and Sokka appeared equally in Aang's scenes.</p>
         
         <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1200">
    <g transform="translate(150,100)">
@@ -1748,7 +1748,11 @@
       </g>
    </g>
 </svg>
-
+            
+                  <!--#include virtual="menu.html" -->
+                  <h1>Network Analysis</h1>
+                  <p>The Network Analysis below tells us the amount of times each character has spoken (in Blue) about another character (in Orange).  We used XQuery to output a list of characters and referents for each collection of XML files and imported that list into Cytoscape. </p>
+            <img src="images/output.tsv.png" alt="network">
         
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
         
