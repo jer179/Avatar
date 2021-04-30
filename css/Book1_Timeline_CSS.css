@@ -26,7 +26,8 @@ h2 {
 p {
   color: black;
   text-align:center;
-  font-family:veranda;
+    font-family: fantasy;
+    font-size: 18px;
 }
 * {
   box-sizing: border-box;

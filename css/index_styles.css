@@ -17,6 +17,13 @@ svg {
     margin-right: auto;
 }
 
+#graphBody {
+    font-family: fantasy;
+    font-size: 18px;
+    text-align: center;
+    justify-content: center;
+}
+
 body {
   background-color: #e8d5ae;
   border: 2px solid #822405;
